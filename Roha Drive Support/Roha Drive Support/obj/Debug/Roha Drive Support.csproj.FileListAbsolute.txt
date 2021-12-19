@@ -1,0 +1,13 @@
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\bin\Debug\Roha Drive Support.exe.config
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\bin\Debug\Roha Drive Support.exe
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\bin\Debug\Roha Drive Support.pdb
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.csprojResolveAssemblyReference.cache
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha_Drive_Support.Properties.Resources.resources
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.csproj.GenerateResource.Cache
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.exe
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.pdb
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\obj\Debug\Roha_Drive_Support.Form1.resources
+c:\users\mati\documents\visual studio 2015\Projects\Roha Drive Support\Roha Drive Support\bin\Debug\kayChart.dll
+C:\Users\Mati\Desktop\Roha Drive Support\Roha Drive Support\bin\Debug\Roha Drive Support.exe.config
+C:\Users\Mati\Desktop\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.exe
+C:\Users\Mati\Desktop\Roha Drive Support\Roha Drive Support\obj\Debug\Roha Drive Support.pdb
